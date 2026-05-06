@@ -1,7 +1,6 @@
 """
 Serializers for API View.
 """
-from attr.validators import min_len
 from django.contrib.auth import (
     get_user_model,
     authenticate,
